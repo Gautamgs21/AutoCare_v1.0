@@ -1,0 +1,8 @@
+{
+  "name": "AutoCare - Auto Manager",
+  "description": "Comprehensive auto vehicle management and fuel efficiency tracking system with per-vehicle mileage calculations, refuelling logs, service intervals, document expiry alerts, and interactive font and avatar personalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
